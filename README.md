@@ -1,3 +1,8 @@
+Hello everyone, my name is Hua Zhao. This folder is about E08-Paddle-Ball. For the assignment, we learned the basic information about godot application. It is a game design engine that allows user to design a 2D or 3D game. For this exercise, I learned how to create a 2D bouncing ball game. In the game you can use your mouse to control the paddle and catch the ball that is bouncing. After the ball is landing on the paddle, it will bouncing back. 
+
+Enjoy the game. 
+
+
 # E08a-Paddle-Ball
 This is the first Godot exercise for BL-MSCH-C220. As usual, Fork and Clone this repository.
 
